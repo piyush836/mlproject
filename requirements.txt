@@ -2,4 +2,8 @@ pandas
 numpy
 seaborn
 scikit-learn
--e.
+catboost
+xgboost
+basic_knn
+
+#-e.
