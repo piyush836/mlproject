@@ -5,5 +5,5 @@ scikit-learn
 catboost
 xgboost
 basic_knn
-
+dill
 #-e.
