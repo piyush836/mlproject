@@ -6,4 +6,5 @@ catboost
 xgboost
 basic_knn
 dill
+flask
 #-e.
